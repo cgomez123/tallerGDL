@@ -1,0 +1,25 @@
+{
+  "slug": "refaccionaria-el-ciguenal",
+  "empresa": "Refaccionaria El Ciguenal",
+  "nombre_agente": "Beto",
+  "descripcion_corta": "Asistente de mostrador para talleres y clientes de Guadalajara",
+  "canal_humano": {
+    "url": "https://wa.me/523312345678",
+    "etiqueta": "Hablar con una persona",
+    "horario": "Lunes a sabado de 9:00 a 19:00"
+  },
+  "apariencia": {
+    "color_primario": "#0F4C81",
+    "mensaje_bienvenida": "Hola, soy Beto, el asistente de Refaccionaria El Ciguenal. Dime que pieza buscas o en que te ayudo.",
+    "sugerencias": [
+      "Tienen la marcha para un Tsuru 2010?",
+      "Hacen envios a otros municipios?",
+      "Que garantia manejan?"
+    ]
+  },
+  "modelo": "claude-sonnet-4-6",
+  "limites": {
+    "max_tokens_respuesta": 1024,
+    "max_turnos_por_conversacion": 30
+  }
+}
