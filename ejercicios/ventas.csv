@@ -1,0 +1,61 @@
+mes,region,linea_producto,unidades,monto_mxn
+Enero,Occidente,Baterías,189,425652.21
+Enero,Occidente,Alternadores,130,358722.16
+Enero,Bajío,Bujías,1033,138569.35
+Enero,Bajío,Fuel Injection,331,642726.25
+Enero,Norte,Marchas,70,166691.2
+Enero,Norte,Fuel Injection,249,462599.85
+Enero,Centro,Baterías,109,252920.71
+Enero,Centro,Marchas,68,166133.78
+Enero,Sureste,Marchas,47,121212.23
+Enero,Sureste,Alternadores,56,158021.17
+Febrero,Occidente,Suspensión,306,299003.31
+Febrero,Occidente,Fuel Injection,351,665410.14
+Febrero,Bajío,Alternadores,85,245056.13
+Febrero,Bajío,Marchas,89,217347.38
+Febrero,Norte,Suspensión,205,195575.39
+Febrero,Norte,Alternadores,85,243911.21
+Febrero,Centro,Marchas,69,175261.78
+Febrero,Centro,Baterías,156,361542.17
+Febrero,Sureste,Marchas,48,118277.82
+Febrero,Sureste,Fuel Injection,246,464165.97
+Marzo,Occidente,Fuel Injection,440,849284.89
+Marzo,Occidente,Baterías,227,529656.95
+Marzo,Bajío,Fuel Injection,376,706626.85
+Marzo,Bajío,Baterías,144,333961.22
+Marzo,Norte,Baterías,160,366178.27
+Marzo,Norte,Marchas,90,231750.64
+Marzo,Centro,Alternadores,84,248941.86
+Marzo,Centro,Fuel Injection,306,585134.94
+Marzo,Sureste,Suspensión,174,165729.71
+Marzo,Sureste,Marchas,48,122200.2
+Abril,Occidente,Baterías,184,426653.22
+Abril,Occidente,Suspensión,366,359892.34
+Abril,Bajío,Marchas,102,248105.4
+Abril,Bajío,Alternadores,104,296667.16
+Abril,Norte,Marchas,82,209985.73
+Abril,Norte,Suspensión,260,245939.01
+Abril,Centro,Baterías,159,365909.1
+Abril,Centro,Marchas,77,190240.78
+Abril,Sureste,Bujías,792,106741.63
+Abril,Sureste,Marchas,47,114382.34
+Mayo,Occidente,Marchas,96,242794.96
+Mayo,Occidente,Alternadores,129,366161.6
+Mayo,Bajío,Baterías,146,330619.22
+Mayo,Bajío,Suspensión,306,283961.71
+Mayo,Norte,Bujías,901,117204.17
+Mayo,Norte,Suspensión,245,230844.78
+Mayo,Centro,Suspensión,200,189134.48
+Mayo,Centro,Alternadores,97,282410.88
+Mayo,Sureste,Marchas,59,146003.76
+Mayo,Sureste,Bujías,633,86125.9
+Junio,Occidente,Suspensión,311,296596.17
+Junio,Occidente,Fuel Injection,418,766973.29
+Junio,Bajío,Fuel Injection,389,728764.11
+Junio,Bajío,Alternadores,98,286157.55
+Junio,Norte,Marchas,101,248262.71
+Junio,Norte,Baterías,142,328031.92
+Junio,Centro,Suspensión,274,272405.72
+Junio,Centro,Alternadores,80,227562.69
+Junio,Sureste,Suspensión,171,169596.41
+Junio,Sureste,Alternadores,71,201809.04
