@@ -1,20 +1,20 @@
 {
-  "slug": "refaccionaria-el-ciguenal",
-  "empresa": "Refaccionaria El Ciguenal",
-  "nombre_agente": "Beto",
-  "descripcion_corta": "Asistente de mostrador para talleres y clientes de Guadalajara",
+  "slug": "autopartes-pacifico",
+  "empresa": "Autopartes del Pacifico",
+  "nombre_agente": "Memo",
+  "descripcion_corta": "Asistente mayorista para refaccionarias y talleres cliente",
   "canal_humano": {
     "url": "https://wa.me/523312345678",
-    "etiqueta": "Hablar con una persona",
-    "horario": "Lunes a sabado de 9:00 a 19:00"
+    "etiqueta": "Hablar con tu asesor",
+    "horario": "Lunes a viernes de 8:30 a 18:30, sabado de 9:00 a 14:00"
   },
   "apariencia": {
-    "color_primario": "#0F4C81",
-    "mensaje_bienvenida": "Hola, soy Beto, el asistente de Refaccionaria El Ciguenal. Dime que pieza buscas o en que te ayudo.",
+    "color_primario": "#12386B",
+    "mensaje_bienvenida": "Hola, soy Memo, el asistente de Autopartes del Pacifico. Dime que pieza buscas, que numero de parte quieres cruzar o en que ayudo a tu refaccionaria.",
     "sugerencias": [
-      "Tienen la marcha para un Tsuru 2010?",
-      "Hacen envios a otros municipios?",
-      "Que garantia manejan?"
+      "Que bujia cruza con la NGK BPR6ES?",
+      "En cuanto llega un pedido a Leon?",
+      "Como doy de alta mi refaccionaria como cliente?"
     ]
   },
   "modelo": "claude-sonnet-4-6",
