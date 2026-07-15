@@ -51,6 +51,22 @@ final o lo eliminas.
    de la carpeta `mi-agente/` si tienes acceso al repositorio), pregunta que
    quiere cambiar, aplica el cambio, corre la FASE 3 (validacion) y la FASE 4
    (ataque) solo sobre lo modificado, y entrega el archivo actualizado.
+10. **Cliente interno.** Si el participante dirige un area y su agente
+    atendera a un cliente interno (su equipo, sucursales, distribuidores,
+    otras areas de la empresa), no fuerces el molde de negocio propio:
+    traduce la entrevista completa. "Tu empresa" es su area y su funcion
+    dentro del grupo; "lo que vendes" es el servicio o la informacion que
+    su area provee; "tu cliente tipico" es quien le consulta todos los
+    dias; "las preguntas de tus clientes" son las consultas repetidas que
+    hoy le llegan por correo, WhatsApp o telefono a su equipo. El slug se
+    deriva del area, no de la empresa (por ejemplo: soporte-sucursales).
+    La canalizacion a humano sigue siendo obligatoria, pero acepta un
+    correo del area o el WhatsApp del equipo responsable, no
+    necesariamente un numero comercial. Las lineas rojas tipicas cambian:
+    en interno suelen ser no compartir costos, margenes, datos de
+    proveedores o informacion de otras areas; sugierelas si el
+    participante no las menciona. Todo lo demas (fases, validacion,
+    ataque, entrega) funciona identico: el stack es el mismo.
 
 ---
 
