@@ -1,91 +1,81 @@
-# Base de conocimiento de Autopartes del Pacifico
-Informacion vigente al 14 de julio de 2026. Empresa y datos de demostracion.
+# Base de conocimiento · CIOSA Autopartes
+Información vigente al 16 de julio de 2026.
 
-## Quienes somos
-- Distribuidor mayorista de autopartes con sede en Guadalajara, Jalisco.
-- Mas de 25 anios surtiendo a refaccionarias y talleres en todo Mexico.
-- Vendemos solo a negocios (refaccionarias, talleres, flotillas). No vendemos
-  a publico en general; si un consumidor final pregunta, lo orientamos a
-  buscar la refaccionaria cliente mas cercana via su asesor.
+## Quiénes somos
+CIOSA Autopartes distribuye autopartes para el mercado de repuesto
+(aftermarket) en México. Nuestros clientes son refaccionarias. Las líneas más
+solicitadas son: fuel injection, frenos, marchas y alternadores.
 
-## Lineas que manejamos
-- Partes electricas: marchas, alternadores, bobinas, sensores.
-- Fuel injection: inyectores, bombas de gasolina, reguladores, cuerpos de
-  aceleracion. Es nuestra especialidad historica.
-- Bujias y cables de encendido.
-- Baterias.
-- Suspension y direccion: amortiguadores, horquillas, rotulas, terminales.
-- Cobertura de vehiculo: Nissan, Toyota, Honda, VW, GM, Ford y Stellantis,
-  modelos 2000 en adelante.
+## Precios
+Los precios de lista se consultan en ciosa.com con su usuario de cliente.
+Para precios especiales o volúmenes altos, un asesor le atiende por WhatsApp:
+https://wa.me/525544332211.
 
-## Cruces de numeros de parte (referencias frecuentes)
-El cruce definitivo siempre lo confirma el equipo tecnico con marca, modelo,
-anio y motor del vehiculo.
-- Bujia NGK BPR6ES: cruza con Champion RN9YC, Bosch WR7DC y Denso W20EPR-U.
-- Bujia NGK BKR5E: cruza con Champion RC12YC y Denso K16PR-U.
-- Marcha para Tsuru 8 dientes: nuestro numero ADP-MAR-0810; cruza con
-  remanufacturadas equivalentes de linea economica y premium.
-- Alternador Versa 2012-2019: nuestro numero ADP-ALT-1042.
-- Bomba de gasolina Aveo 2018: nuestro numero ADP-FIN-2205.
-- Si el numero de parte que te dan no aparece aqui: pide marca, modelo, anio
-  y motor, toma el numero que el cliente tiene a la mano, y canaliza al asesor
-  para el cruce definitivo.
+## Pedidos y existencias
+- Los pedidos se levantan en ciosa.com con su usuario y contraseña de cliente.
+- Al confirmar el pedido, el sistema calcula la disponibilidad de cada NPC
+  (número de parte CIOSA) y muestra el nivel de surtido logrado.
+- Si su CEDI no surte todo, puede solicitar que el resto se envíe desde la
+  matriz en Guadalajara; en ese caso se generan dos pedidos: el del CEDI y el
+  backorder.
+- Pedido mínimo: $1,500 pesos.
+- La compatibilidad de una parte (aplicaciones por vehículo y año) se consulta
+  en la ficha del producto en ciosa.com.
 
-## Precios de lista de mayoreo (referencia, IVA incluido)
-- Bujia estandar (NGK BPR6ES o equivalente): $92 c/u en caja de 10.
-- Marcha Tsuru 8 dientes remanufacturada ADP-MAR-0810: $1,290. Nueva: $2,150.
-- Alternador Versa ADP-ALT-1042 remanufacturado: $1,540. Nuevo: $2,480.
-- Bomba de gasolina Aveo ADP-FIN-2205: $1,180.
-- Par de amortiguadores delanteros Versa 2015-2019: $1,890.
-- Bateria 47-600 (12V, 600 CCA): $1,950 con casco de cambio; sin casco +$350.
-- Los precios de lista pueden variar sin previo aviso; el precio final lo
-  confirma tu asesor al levantar el pedido.
-- Existen precios especiales por volumen: los cotiza unicamente tu asesor.
+## Tiempos de entrega
+El tiempo de entrega es de 24 a 48 horas. Los tiempos de paquetería dependen
+de un tercero, por lo que no se pueden garantizar fechas exactas de llegada.
 
-## Entregas por region
-- Zona metropolitana de Guadalajara: mismo dia en pedidos antes de las 13:00;
-  despues, dia siguiente habil.
-- Occidente (Jalisco, Colima, Nayarit, Michoacan): 24 horas habiles.
-- Bajio (Guanajuato, Queretaro, Aguascalientes, SLP): 24 a 48 horas habiles.
-- Norte y Centro: 48 a 72 horas habiles.
-- Sureste: hasta 72 horas habiles.
-- Pedido minimo para envio sin costo: $3,000. Pedidos menores pagan flete
-  segun destino (lo cotiza tu asesor).
+## Formas de pago
+Manejamos crédito y contado. Las condiciones de crédito las gestiona su
+asesor.
 
-## Como hacerse cliente
-- Alta como cliente distribuidor: constancia de situacion fiscal, comprobante
-  de domicilio del negocio e identificacion del representante.
-- El alta la gestiona un asesor por WhatsApp; toma 1 dia habil.
-- Primer pedido: pago anticipado. Lineas de credito se evaluan a partir del
-  tercer mes de historial de compra (las condiciones las explica tu asesor).
-
-## Garantias
-- Partes electricas y fuel injection nuevas: 1 anio contra defecto de fabrica.
-- Remanufacturadas: 4 meses.
-- Suspension: 6 meses.
-- Baterias: 1 anio.
-- La garantia requiere factura y revision de la pieza; no cubre mala
-  instalacion ni piezas golpeadas.
-
-## Formas de pago y facturacion
-- Transferencia, deposito y tarjeta corporativa.
-- Todas las ventas se facturan; los datos fiscales se registran en el alta de
-  cliente.
+## Garantías
+- Fuel Injection: 1 año de garantía a partir de la fecha de facturación.
+- Sistema Eléctrico: 6 meses de garantía a partir de la fecha de facturación.
+- La garantía aplica cuando el producto presenta fallas en su operación normal
+  atribuibles a defectos de fabricación.
+- Para hacerla válida, acuda al centro de distribución o sucursal de CIOSA
+  donde realizó la compra, con su factura original.
 
 ## Devoluciones
-- Piezas electricas y de fuel injection: no hay devolucion una vez instaladas
-  o probadas; solo aplica garantia por defecto.
-- Otras piezas: cambio dentro de 7 dias con factura, empaque original y sin
-  senales de instalacion.
+- Se realizan en línea en ciosa.com, sección "Devoluciones".
+- Puede buscar por número de factura o por NPC.
+- La factura no debe tener más de un mes de antigüedad.
+- Al confirmar, tanto el cliente como el vendedor reciben un correo con la
+  autorización de la devolución.
+
+## Alta de clientes nuevos
+Si aún no es cliente de CIOSA, un asesor le atiende con gusto para darlo de
+alta. Escríbanos por WhatsApp: https://wa.me/525544332211, de lunes a sábado
+de 8:00 a 20:00.
+
+## Atención humana
+WhatsApp: https://wa.me/525544332211
+Horario: lunes a sábado de 8:00 a 20:00.
 
 ## Preguntas frecuentes
-- "Tienen la pieza X?": orienta con lineas y precios de referencia, y canaliza
-  al asesor para confirmar disponibilidad del dia.
-- "Que cruza con el numero X?": usa la tabla de cruces; si no esta, pide los
-  datos del vehiculo y canaliza al equipo tecnico.
-- "Me haces un descuento?": los precios de lista no se negocian en este chat;
-  los precios por volumen los cotiza tu asesor.
-- "Venden a publico general?": no; orienta a contactar al asesor para ubicar
-  una refaccionaria cliente cercana.
-- "En cuanto llega a mi ciudad?": responde con la tabla de entregas por
-  region; la fecha exacta la confirma el asesor al levantar el pedido.
+**¿Qué garantía tienen las partes?**
+Fuel injection: 1 año. Sistema eléctrico: 6 meses. Ambas desde la fecha de
+facturación y por defectos de fabricación.
+
+**¿En cuánto tiempo llega mi pedido?**
+De 24 a 48 horas. Los tiempos de paquetería dependen de un tercero.
+
+**¿Tienen una pieza en existencia?**
+La disponibilidad se consulta en tiempo real en ciosa.com al levantar su
+pedido; el sistema le muestra el surtido de su CEDI y la opción de backorder
+desde matriz.
+
+**¿Esta parte le queda a mi vehículo?**
+Consulte las aplicaciones del producto en su ficha en ciosa.com. Si tiene
+dudas con una compatibilidad, su asesor le confirma por WhatsApp.
+
+**¿Cuál es el pedido mínimo?**
+$1,500 pesos.
+
+**¿Qué formas de pago manejan?**
+Crédito y contado.
+
+**¿Cómo me doy de alta como cliente?**
+Con un asesor, por WhatsApp: https://wa.me/525544332211.

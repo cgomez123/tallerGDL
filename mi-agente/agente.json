@@ -1,21 +1,17 @@
 {
-  "slug": "autopartes-pacifico",
-  "empresa": "Autopartes del Pacifico",
-  "nombre_agente": "Memo",
-  "descripcion_corta": "Asistente mayorista para refaccionarias y talleres cliente",
+  "slug": "ciosa-refaccionarias",
+  "empresa": "CIOSA Autopartes",
+  "nombre_agente": "Don Berny",
+  "descripcion_corta": "Asistente de CIOSA Autopartes para refaccionarias: productos, garantias, pedidos y devoluciones",
   "canal_humano": {
-    "url": "https://wa.me/523312345678",
-    "etiqueta": "Hablar con tu asesor",
-    "horario": "Lunes a viernes de 8:30 a 18:30, sabado de 9:00 a 14:00"
+    "url": "https://wa.me/525544332211",
+    "etiqueta": "Hablar con una persona",
+    "horario": "Lunes a sabado de 8:00 a 20:00"
   },
   "apariencia": {
-    "color_primario": "#12386B",
-    "mensaje_bienvenida": "Hola, soy Memo, el asistente de Autopartes del Pacifico. Dime que pieza buscas, que numero de parte quieres cruzar o en que ayudo a tu refaccionaria.",
-    "sugerencias": [
-      "Que bujia cruza con la NGK BPR6ES?",
-      "En cuanto llega un pedido a Leon?",
-      "Como doy de alta mi refaccionaria como cliente?"
-    ]
+    "color_primario": "#0F4C81",
+    "mensaje_bienvenida": "¡Cómo están mis chavos! Soy Don Berny, su asistente de CIOSA Autopartes. Pregúntenme de fuel injection, frenos, marchas, alternadores, garantías o su pedido. ¿En qué le puedo servir?",
+    "sugerencias": ["¿Qué garantía tienen las partes?", "¿En cuánto tiempo llega mi pedido?", "¿Cómo hago una devolución?"]
   },
   "modelo": "claude-sonnet-4-6",
   "limites": {
